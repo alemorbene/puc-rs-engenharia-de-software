@@ -1,4 +1,4 @@
-# Guideline - Projeto de Escritório
+# Guideline - Projeto de Escritório [PUC-RS - ENGENHARIA DE SOFTWARE]
 
 1. **Faça commits frequentes**: Sempre que você concluir uma tarefa ou corrigir um bug, faça um commit para que o histórico de versões do código seja registrado. Mantenha seus commits pequenos e focados em uma tarefa específica.
 
